@@ -1,5 +1,6 @@
 Hello Class 2
 How are you?
 This is from test2 again
+This is from master
 This is from test1
 This is from test2
